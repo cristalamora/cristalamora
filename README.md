@@ -4,7 +4,7 @@
 - :+1: eu estou interressada em aprender novas linguagens
 - :+1: eu estou aprendendo a programar na linguagem java script e scratch
 - 👋 Hi, I’m @cristalamora
-- 👀 eu estou aprendendo a programar na linguagem java
+- 👀 eu estou aprendendo a programar na linguagem java scripte scratch
 - 🌱 eu estou recentemente aprendendo a programar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
