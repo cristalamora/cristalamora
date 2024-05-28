@@ -20,7 +20,7 @@
   ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
   ![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
   ![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
-- ![](https://i.pinimg.com/originals/50/1d/bd/501dbd3360bbfe8aab5d7faaad7cbab8.gif)
+- ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx8v5bzspzSdbxoqEK6Y7Hjy-STI_Xg0UC3v1mJEuuBrHfZXArOY7EDTYyqhqoXRQgrEn82h2WWUtosg_GXQuVwmAoyQZ7HsyxOSha3eCnYZwp4OC-Dr2niPZTbcJTNndDsmJSOk-rs7Q/s1600/Gato+de+Botas+Gif+1.gif)
 <!---
 
 --->
